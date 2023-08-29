@@ -1,5 +1,5 @@
 num1 = int(input("Escolha o primeiro número: "))
-num2 = int(input("escreva o segundo número: "))
+num2 = int(input("Escolha o segundo número: "))
 
 soma = num1 + num2
 subtracao = num1 - num2
