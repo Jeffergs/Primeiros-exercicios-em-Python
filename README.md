@@ -1,2 +1,2 @@
-# Primeiros_exercicios_em_Python
+# Primeiros-exercicios-em-Python
 Aprendendo lógica da programação com Python
